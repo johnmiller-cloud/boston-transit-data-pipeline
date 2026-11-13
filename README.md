@@ -231,7 +231,6 @@ This project demonstrates practical experience with:
 - Add S3 lifecycle policies
 - Deploy the dashboard publicly
 
-## Screenshots
 
 ## Screenshots
 
